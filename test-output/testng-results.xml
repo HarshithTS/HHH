@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="53703" started-at="2018-09-28T10:15:21Z" finished-at="2018-09-28T10:16:15Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="53703" started-at="2018-09-28T10:15:21Z" finished-at="2018-09-28T10:16:15Z">
+      <class name="test.RegisterTest">
+        <test-method status="PASS" signature="BeforeTest()[pri:0, instance:test.RegisterTest@343f4d3d]" name="BeforeTest" is-config="true" duration-ms="11573" started-at="2018-09-28T10:15:21Z" finished-at="2018-09-28T10:15:32Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BeforeTest -->
+        <test-method status="PASS" signature="BeforeMethod(java.lang.reflect.Method)[pri:0, instance:test.RegisterTest@343f4d3d]" name="BeforeMethod" is-config="true" duration-ms="4214" started-at="2018-09-28T10:15:32Z" finished-at="2018-09-28T10:15:37Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void test.RegisterTest.Test() throws java.lang.Exception]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BeforeMethod -->
+        <test-method status="PASS" signature="Test()[pri:0, instance:test.RegisterTest@343f4d3d]" name="Test" duration-ms="26195" started-at="2018-09-28T10:15:37Z" finished-at="2018-09-28T10:16:03Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Test -->
+        <test-method status="PASS" signature="openTestReport()[pri:0, instance:test.RegisterTest@343f4d3d]" name="openTestReport" is-config="true" duration-ms="11632" started-at="2018-09-28T10:16:03Z" finished-at="2018-09-28T10:16:15Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openTestReport -->
+      </class> <!-- test.RegisterTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
